@@ -1,5 +1,4 @@
 # Listado de colaboradores
-
 * Juan Carlos Monom
 * Eduardo Ismael García Pérez
 * Nicolas Daza Hernandez
@@ -81,6 +80,6 @@
 * Andrés Pérez (México)
 * Arcadio Cervantes (mexico)
 * sergio
-* Juan Martínez Alonso (Barcelona)  
+* Juan Martínez Alonso (Barcelona)
 * Cándido (Cande) Ortega
 * Aner Bilbao Gabriel (España | País Vasco)
